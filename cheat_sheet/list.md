@@ -21,3 +21,7 @@
 #### Run a command in a new container
 
 `docker run image_name container_name`
+
+#### Disconnect long lived container
+
+`docker run -d container_name`
