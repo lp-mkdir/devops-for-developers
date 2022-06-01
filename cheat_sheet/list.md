@@ -22,6 +22,6 @@
 
 `docker run image_name container_name`
 
-#### Disconnect long lived container
+#### Run container in background and print container ID
 
 `docker run -d container_name`
